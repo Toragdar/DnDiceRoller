@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DnDice Roller</string>
+    <string name="roll_button">Roll</string>
+    <string name="clear_button">Clear</string>
+    <string name="title_text">Choose Your dices! </string>
+    <string name="result_text">Total:&#160;</string>
+    <string name="result_value">0</string>
+</resources>
